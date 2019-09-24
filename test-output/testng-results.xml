@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-26T10:15:58Z" name="Default suite" finished-at="2019-08-26T10:16:39Z" duration-ms="40586">
+    <groups>
+    </groups>
+    <test started-at="2019-08-26T10:15:58Z" name="Default test" finished-at="2019-08-26T10:16:39Z" duration-ms="40586">
+      <class name="pe.webVAC.automation.ui.runWebVACTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pe.webVAC.automation.ui.runWebVACTest@740773a3]" started-at="2019-08-26T05:15:58Z" name="setup" finished-at="2019-08-26T05:16:09Z" duration-ms="10273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestWeb()[pri:0, instance:pe.webVAC.automation.ui.runWebVACTest@740773a3]" started-at="2019-08-26T05:16:09Z" name="TestWeb" finished-at="2019-08-26T05:16:30Z" duration-ms="21242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWeb -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pe.webVAC.automation.ui.runWebVACTest@740773a3]" started-at="2019-08-26T05:16:30Z" name="afterTest" finished-at="2019-08-26T05:16:39Z" duration-ms="9038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pe.webVAC.automation.ui.runWebVACTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
